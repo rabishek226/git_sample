@@ -1,4 +1,3 @@
-# Hey hello welcome
+# Print the hello message
 
--- Come on let's go
 -- Update the UI for the web application
