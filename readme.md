@@ -1,4 +1,3 @@
-# Welcome to choco land
+# Print the hello message
 
--- This update is coming from dev-abi
 -- Update the UI for the web application
